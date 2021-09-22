@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @skyhon
-- 👀 I’m interested in technologies, wild fires, climate change, and IOT.
+- 👀 I’m interested in technologies, wildfire, climate change, and IOT.
 - 🌱 I’m currently relearning C programming. 
 - 💞️ I’m looking to collaborate on Javascript graph libraries.
 - 📫 How to reach me ...
